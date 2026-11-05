@@ -1,0 +1,1 @@
+ALTER TABLE "cars" ADD COLUMN "fuel_type" text DEFAULT '' NOT NULL;
